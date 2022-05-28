@@ -1,4 +1,4 @@
-### Instrucciones para la ejecución de pruebas en RIPuppet
+## Instrucciones para la ejecución de pruebas en RIPuppet
 
 NOTA: Antes de la ejecución de las pruebas de reconocimiento se debe asegurarse de usar la versión de node 12.22.1 para evitar errores al momento de ejecutarlas. Para esto se puede:
 * Instalar en el dispositivo nvm (https://github.com/nvm-sh/nvm)
@@ -9,7 +9,7 @@ NOTA: Antes de la ejecución de las pruebas de reconocimiento se debe asegurarse
 pruebas-reconocimiento" dentro de la carpeta "reconocimiento" en la terminal y usar el comando `npm install`. 
 Del mismo modo, para poder ver los resultados, ubicarse en la carpeta "results" y ejecutar el comando `npm install -g http-server`.
 
-## Ejecución de las pruebas
+### Ejecución de las pruebas
 * Antes de ejecutar las pruebas, asegurarse de que la aplicación Ghost se encuentra en ejecución.
 * Para ejecutar las pruebas, en la terminal ir a la carpeta "reconocimiento", luego ubicarse en la carpeta "pruebas-reconocimiento", y desde ahí ejecutar el comando `node index.js`.
 * La ejecución de las pruebas puede tardar unos 30 minutos aproximadamente.
