@@ -4,6 +4,8 @@ En la herramienta Cypress se desarrollaron las pruebas unitarias. La herramienta
 
 En la herramienta RIPuppet se desarrollaron las preuabs de reconocimiento.
 
+La información de las pruebas exploratorias se encuentra en la wiki (https://github.com/MiguelDuba/Semana8/wiki)
+
 Para las pruebas se usó la siguiente versión de la aplicación Ghost:
 
 Versión Ghost 4.41.3
