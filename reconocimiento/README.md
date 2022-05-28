@@ -15,4 +15,4 @@ Del mismo modo, para poder ver los resultados, ubicarse en la carpeta "results" 
 * La ejecución de las pruebas puede tardar unos 30 minutos aproximadamente.
 * Una vez haya finalizado la ejecución, en la terminal ir a la carpeta "results" la cual se genera dentro de la carpeta "pruebas-reconocimiento" al ejecutar las pruebas.
 * Desde esa ubicación ejecutar el comando `http-server`. En la terminal saldrá una url disponible para abrirla en un navegador. 
-* Una vez ubicado ahí, ir a la opción "report" donde se podrá observar el reporte generado para cada uno de los navegadores evaluados.
+* Una vez ubicado ahí, ir al navegador que desee y luego ir a la opción "report" donde se podrá observar el reporte generado para ese navegador.
