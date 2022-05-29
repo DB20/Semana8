@@ -2,13 +2,15 @@
 
 En la herramienta Cypress se desarrollaron las pruebas unitarias. La herramienta faker.js se utilizó para la generación de datos aleatorios. 
 
-En la herramienta RIPuppet se desarrollaron las preuabs de reconocimiento.
+En la herramienta RIPuppet se desarrollaron las preubas de reconocimiento.
 
 La información de las pruebas exploratorias se encuentra en la wiki (https://github.com/MiguelDuba/Semana8/wiki)
 
-Para las pruebas se usó la siguiente versión de la aplicación Ghost:
+El enlace del documento de la estrategia de pruebas se encuentra en la wiki
 
-Versión Ghost 4.41.3
+El enlace del video se encuentra en la wiki
+
+Para las pruebas se usó la siguiente versión de la aplicación Ghost: 4.41.3
 
 
 ## Instrucciones para instalar Ghost
